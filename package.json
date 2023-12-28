@@ -25,7 +25,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:rathorsunpreet/playwrightTest.git"
   },
   "devDependencies": {
     "@playwright/test": "^1.40.1",
