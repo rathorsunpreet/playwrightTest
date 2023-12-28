@@ -4,7 +4,7 @@ Typescript project to perform cross-browser test of DOM Elements of the site [Ar
 
 ## Installation
 
-Download the package from [Github]() and unzip it.
+Download the package from [Github](https://github.com/rathorsunpreet/playwrightTest) and unzip it.
 
 ```console
 # Installs dependencies
