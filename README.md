@@ -2,6 +2,8 @@
 
 Typescript project to perform cross-browser test of DOM Elements of the site [Art of Testing](https://artoftesting.com/samplesiteforselenium) using Playwright and POM.
 
+Demo: https://www.youtube.com/watch?v=8u30k3mpvKc
+
 ## Installation
 
 Download the package from [Github](https://github.com/rathorsunpreet/playwrightTest) and unzip it.
